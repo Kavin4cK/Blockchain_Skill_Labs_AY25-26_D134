@@ -5,10 +5,10 @@
 # Blockchain Skill Labs AY25-26
 
 ## 📚 Overview
-Welcome to the Blockchain Skill Labs repository for the academic year 2025-26! This repository serves as a comprehensive code-chest and guide for the workshop sessions conducted on Day 1, 3, and 4.
+Welcome to the Blockchain Skill Labs repository for the academic year 2025-26! This repository serves as a comprehensive code-chest and guide for the sessions conducted on Day 1, 3, and 4.
 
 ## 🗓️ Schedule
-For a detailed schedule of the workshop, please refer to the [Schedule.png](Schedule.png) file.
+For a detailed schedule of the Sessions, please refer to the [Schedule.png](Schedule.png) file.
 
 ## 📋 Problem Statement
 [![Problem Statement](https://img.shields.io/badge/View-Problem%20Statement-blue)](https://docs.google.com/document/d/1gyikEhZ2g7yUaUvmz_5RUznIAZ2s4870rkm-OSLvvdo/edit?usp=sharing)
@@ -29,4 +29,6 @@ For a detailed schedule of the workshop, please refer to the [Schedule.png](Sche
 - All session materials, including Rust, Solana & Ethereum IPFS DApp resources, are available in the shared drive
 
 ## 📧 Contact
-For any queries, please contact the workshop organizers through the official channels.
+For any queries, You may Contact : 
+Prof. Swetha Babu Prasad, Dept. of CSE
+Kavin Krishnan C, II-Y, Dept. of CSE
