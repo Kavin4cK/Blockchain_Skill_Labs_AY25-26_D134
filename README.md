@@ -18,8 +18,11 @@ For a detailed schedule of the workshop, please refer to the [Schedule.png](Sche
 ### Day 1: Installation Guide
 [![Day 1 Guide](https://img.shields.io/badge/View-Day%201%20Guide-9cf)](https://docs.google.com/document/d/1pYnPd9vN5A_jROLuWO46ysusVyFhGCTny53ZtaOwpzk/edit?usp=sharing)
 
+### Rust for Solana Dev Stack
+[![View Slides](https://img.shields.io/badge/View-Slides-FF2D20?style=for-the-badge&logo=rust&logoColor=white)](https://www.canva.com/design/DAG9BcZbUcw/Iy3HFS7GnCEz77mHI2fxHg/edit?utm_content=DAG9BcZbUcw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ### Complete Workshop Materials
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-All%20Materials-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/17jnM6NPb0siVZzutWCjRrTPzBRDDvao5?usp=sharing)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-All%20Materials-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/17jnM6NPb0siVZzutWCjRrTPzBRDDvao5?usp=sharing)
 
 ## 📝 Additional Resources
 - Quizziz worksheets are available in the Google Drive folder
