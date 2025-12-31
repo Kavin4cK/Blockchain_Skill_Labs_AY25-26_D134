@@ -10,7 +10,7 @@ Welcome to the Blockchain Skill Labs repository for the academic year 2025-26! T
 ## 🗓️ Schedule
 For a detailed schedule of the Sessions, please refer to the [Schedule.png](Schedule.png) file.
 
-## 📋 Problem Statement
+## 📋 Problem Statements
 [![Problem Statement](https://img.shields.io/badge/View-Problem%20Statement-blue)](https://docs.google.com/document/d/1gyikEhZ2g7yUaUvmz_5RUznIAZ2s4870rkm-OSLvvdo/edit?usp=sharing)
 
 ## 📂 Session Materials

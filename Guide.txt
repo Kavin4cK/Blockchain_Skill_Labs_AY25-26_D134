@@ -1,0 +1,30 @@
+Blockchain Skill Labs AY25-26
+
+OVERVIEW
+Welcome to the Blockchain Skill Labs repository for the academic year 2025-26! This repository serves as a comprehensive code-chest and guide for the sessions conducted on Day 1, 3, and 4.
+
+SCHEDULE
+For a detailed schedule of the Sessions, please refer to the Schedule.png file.
+
+PROBLEM STATEMENT
+View Problem Statement: https://docs.google.com/document/d/1gyikEhZ2g7yUaUvmz_5RUznIAZ2s4870rkm-OSLvvdo/edit?usp=sharing
+
+SESSION MATERIALS
+
+Day 1: Installation Guide
+View Day 1 Guide: https://docs.google.com/document/d/1pYnPd9vN5A_jROLuWO46ysusVyFhGCTny53ZtaOwpzk/edit?usp=sharing
+
+Rust for Solana Dev Stack
+View Slides: https://www.canva.com/design/DAG9BcZbUcw/Iy3HFS7GnCEz77mHI2fxHg/edit?utm_content=DAG9BcZbUcw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Complete Workshop Materials
+Google Drive: https://drive.google.com/drive/folders/17jnM6NPb0siVZzutWCjRrTPzBRDDvao5?usp=sharing
+
+ADDITIONAL RESOURCES
+- Quizziz worksheets are available in the Google Drive folder
+- All session materials, including Rust, Solana & Ethereum IPFS DApp resources, are available in the shared drive
+
+CONTACT
+For any queries, You may Contact: 
+Prof. Swetha Babu Prasad, Dept. of CSE
+Kavin Krishnan C, II-Y, Dept. of CSE
